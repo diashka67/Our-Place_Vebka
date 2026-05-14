@@ -162,7 +162,7 @@ p:hover{
 }
 .main-info-2-2{
     display: block;
-    width: 640px;
+    width: 650px;
     height: 104px;
     float: right;
     margin: 121px 120px 115px 0;
@@ -194,9 +194,9 @@ p:hover{
 .visual-design-1{
     margin-right:360px ;
     width: 561px;
-    height: 516px;
+    height: 552px;
     background-image: url("assets/skovorodka.svg");
-    padding-top: 36px;
+
 }
 .visual-design-info-4{
     margin-left: 454px;
