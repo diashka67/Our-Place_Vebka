@@ -118,7 +118,7 @@ button:hover {
     font-weight: 400;
 }
 
-/*  HERO SECTION  */
+/*  SECTION  */
 .main-info {
     background-image: url('assets/Fon1.svg');
     padding-top: 169px;
@@ -163,7 +163,7 @@ button:hover {
     cursor: grab;
 }
 
-/*  SOCIAL PROOF SECTION  */
+/*  SECTION  */
 .main-info-1 {
     background-color: #F5F1E9;
     height: 212px;
@@ -197,7 +197,7 @@ button:hover {
     cursor: pointer;
 }
 
-/*  ABOUT SECTION  */
+/*  SECTION  */
 .main-info-2 {
     height: 340px;
     gap: 135px;
@@ -233,7 +233,7 @@ button:hover {
     line-height: 25.92px;
 }
 
-/*  VISUAL SECTION  */
+/*  SECTION  */
 .visual {
     background-color: #FBF6EA;
     height: 939px;
@@ -313,7 +313,7 @@ button:hover {
     margin-right: 26px;
 }
 
-/*  PRODUCTS SECTION  */
+/*  SECTION  */
 .limited-info {
     height: 819.8px;
     display: flex;
@@ -438,7 +438,7 @@ button:hover {
     margin-top: 21px;
 }
 
-/*  DISH SECTION  */
+/* SECTION  */
 .dish {
     display: flex;
     height: 480px;
